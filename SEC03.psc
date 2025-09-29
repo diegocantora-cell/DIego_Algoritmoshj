@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 //Escribir un algoritmo que sume, reste, multiplique y divida dos numeros enteros
 Algoritmo SEC04
 	Definir A, B Como Entero
@@ -18,3 +19,4 @@ Algoritmo SEC04
 	Escribir ' La multiplicacion es: ', M
 	Escribir ' LA division es: ', D
 FinAlgoritmo
+
