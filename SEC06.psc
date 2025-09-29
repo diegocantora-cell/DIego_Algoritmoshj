@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 // Escribir un algoritmo que calcule el area de un rectangulo
 Algoritmo SEC06
 	Definir Base, Altura Como Real
@@ -7,3 +8,4 @@ Algoritmo SEC06
 	Leer Altura
 	Escribir 'El area del rectangulo es: ', Base*Altura/2
 FinAlgoritmo
+
