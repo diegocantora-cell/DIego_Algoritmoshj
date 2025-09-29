@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 //Escribir un algoritmo que calcule el area de un rectangulo
 Algoritmo SEC05
 	Definir Largo, Ancho Como Reales;
@@ -9,3 +10,4 @@ Algoritmo SEC05
 	
 	Escribir "El area del rectangulo es: ", Largo * Ancho;
 FinAlgoritmo
+
