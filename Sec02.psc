@@ -1,3 +1,4 @@
+//00593905 Diego Alejandro Cantoral Barrios
 // SUma de A y B que de C 
 Algoritmo Sec02
 	Definir A, B Como Entero
@@ -8,3 +9,4 @@ Algoritmo Sec02
 	C <- A+B
 	Escribir C
 FinAlgoritmo
+
